@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Olá! Eu sou Guilherme Senes.<br>👯 Sou um aspirante a programador<br>🤝A procura de uma vaga como dev
+🔭 Olá! Eu sou Guilherme Senes.<br>💻 Sou um aspirante a programador<br>🤝A procura de uma vaga como dev
 
 
 ## 🌐 Socials:
